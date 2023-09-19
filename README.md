@@ -13,12 +13,13 @@ Molimo vas da imate na umu da je **Pip-utility** side projekt i da je napisan od
 
 2. Navigirajte do putanje projekta:
 
-  `cd pipenv-helper`
+   ```bash
+   cd pipenv-helper
 
 3. Pokrenite aplikaciju koristeći naredbu:
 
-
-  `cargo run`
+   ```bash
+   cargo run
 
 
 # Napomena
