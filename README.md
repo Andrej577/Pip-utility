@@ -1,6 +1,6 @@
 # Pip-utility
 
-**Pip-utility** je mali program napisan u Rust-u koji je namenjen olakšanju upravljanja `pipenv` virtuelnim okruženjima za Python. Ovaj alat omogućuje kreiranje virtualnih okruženja, njihovu aktivaciju, instalaciju paketa u specifičnom virtuelnom okruženju i izlistavanje instaliranih paketa.
+**Pip-utility** je mali program napisan u Rust-u koji je namenjen olakšanju upravljanja `pipenv` virtuelnim okruženjima za Python. Ovaj alat omogućuje kreiranje virtualnih okruženja, njihovu aktivaciju, instalaciju paketa u specifičnom virtualnom okruženju i izlistavanje instaliranih paketa.
 
 Molimo vas da imate na umu da je **Pip-utility** side projekt i da je napisan od strane autora sa malim iskustvom u programiranju. Ovaj alat služi kao dio učenja i istraživanja Rust programskog jezika, posebno biblioteke Dioxus.
 
