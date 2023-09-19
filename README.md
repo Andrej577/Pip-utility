@@ -21,7 +21,6 @@ Molimo vas da imate na umu da je **Pip-utility** side projekt i da je napisan od
    ```bash
    cargo run
 
-
 # Napomena
 
 Ovaj program je trenutno razvijan i testiran samo na Windows operativnom sustavu. Upotreba na Linux-u ili macOS-u nije testirana i može dovesti do neželjenog ponašanja.
