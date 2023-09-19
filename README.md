@@ -6,7 +6,7 @@ Molimo vas da imate na umu da je **Pip-utility** side projekt i da je napisan od
 
 ## Upute za upotrebu
 
-1. Klonirajte ovaj projekat na vaše računalo koristeći `git clone` komandu:
+1. Klonirajte ovaj projekt na vaše računalo koristeći `git clone` komandu:
 
    ```bash
    git clone https://github.com/vaš-korisnički-nalog/pipenv-helper.git
